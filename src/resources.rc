@@ -1,0 +1,5 @@
+#include "resource.h"
+
+// Audio resources
+IDR_BG_MUSIC        RCDATA  "../assets/audio/background_music.mp3"
+IDR_COIN_SOUND      RCDATA  "../assets/audio/coin_sound.mp3"
