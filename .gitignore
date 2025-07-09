@@ -30,8 +30,3 @@ Release/
 # OS generated files
 Thumbs.db
 .DS_Store
-
-# Audio files in root (should be in assets/audio/)
-*.mp3
-*.wav
-*.ogg
