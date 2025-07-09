@@ -176,5 +176,3 @@ game/
 - 培养代码组织和项目管理能力
 
 祝你游戏愉快！🎮# Flappy-Bird-like
-# Flappy-Bird-like
-# Flappy-Bird-like
